@@ -1,7 +1,9 @@
-403-kamal
+Instafeed
 =========
 
-A private repo for our group.
+Instafeed is a class project that was designed to teach the inner working of software engineering and working in a
+software team. It is a webapp that allows users to aggregate feed information from their social media websites. It has 
+now become a small side project. 
 
 Dev Notes for Internal
 -----
